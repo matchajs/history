@@ -1,0 +1,13 @@
+{
+    "name": "history",
+    "version": "1.0.0",
+    "root": "matcha",
+    "spmConfig": {
+        "build": {
+            "to": "./dist/{{version}}"
+        }
+    },
+    "output": {
+        "history.js": "."
+    }
+}

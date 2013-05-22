@@ -10,6 +10,7 @@
 ###pushState  `History.pushState(data, title, url)`
 
 **参数**
+
 `data` 
 
 `title` 
@@ -20,6 +21,7 @@
 ###replaceState  `History.replaceState(data, title, url)`
 
 **参数**
+
 `data`  
 
 `title` 
@@ -34,6 +36,7 @@
 ###go  `History.go(index)`
 
 **参数**
+
 `index`
 
 

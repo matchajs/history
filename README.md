@@ -10,8 +10,10 @@
 ###pushState  `History.pushState(data, title, url)`
 
 **参数**
-`data`  
+`data` 
+
 `title` 
+
 `url` 
 
 
@@ -19,8 +21,11 @@
 
 **参数**
 `data`  
+
 `title` 
+
 `url` 
+
 
 ###forward  `History.forward()`
 
@@ -30,6 +35,7 @@
 
 **参数**
 `index`
+
 
 
 ###getState  `History.getState()`
